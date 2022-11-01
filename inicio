@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fabrica de sonhadores</title>
+<link rel="stylesheet" href="site.css">
+<link rel= "shortcut icon" href="C:/Users/Allis/Desktop/WhatsApp-Image-2022-09-12-at-16.17.png">
+
+</head>
+<div id="app"></div>
+<body>
+
+<div class="SITE">
+     <script src="https://kit.fontawesome.com/95a02bd20d.js"></script>
+
+  <div class="container">
+     <div class="card">
+       <div class="face face1">
+         <div class="content">
+            <i class="fab fa-tiktok"></i>            
+           <h3>TIK TOK</h3>
+         </div>
+       </div>
+       <div class="face face2">
+         <div class="content">
+           <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
+           <a href="#" type="button">Read More</a>
+         </div>
+       </div>
+    </div>
+    
+    <div class="card">
+       <div class="face face1">
+         <div class="content">
+      <i class="fab fa-youtube"></i>               <h3>YOUTUBE</h3>
+         </div>
+       </div>
+       <div class="face face2">
+         <div class="content">
+           <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
+           <a href="#" type="button">Read More</a>
+         </div>
+       </div>
+    </div>
+    
+    
+    <div class="card">
+       <div class="face face1">
+         <div class="content">
+           <i class="fab fa-instagram"></i>
+            <h3>INSTAGRAM</h3>
+         </div>
+       </div>
+       <div class="face face2">
+         <div class="content">
+           <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
+           <a href="#" type="button">Read More</a>
+         </div>
+       </div>
+    </div>
+ </div>
+    
+    
+ 
+    
+  </div>
+  <script type="text/javascript" src="cards.js"></script>
+</body>
+</html>
